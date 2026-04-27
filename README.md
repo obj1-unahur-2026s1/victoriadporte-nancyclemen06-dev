@@ -17,7 +17,7 @@ El presupuesto base de las disciplinas existentes es:
 También se sabe que el presupuesto del atleta depende de la cantidad de entrenadores que tiene, multiplicada por el valor que hay que pagarle a cada entrenador. Ese valor lo establece el Comite Olímpico y se suma al costo del elemento que utiliza.
 
 Costos de los elementos:
-- El costo de una raqueta es alto, son 100$ por cada año del tenista, pero sin superar los 3000$,
+- El costo de una raqueta es alto, son 100$ por cada año del tenista, pero sin superar los 3000$
 - El costo de un traje de judo es de 50$ por cada cm de altura del deportista. 
 
 Se quiere probar:	
